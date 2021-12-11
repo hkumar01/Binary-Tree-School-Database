@@ -26,6 +26,7 @@ References
 - Used thomas moore double linked list search and removeAtPos functions because my removeNode function was having issues (no longer using, but still in my linkedlist implementation)
 - Reading comma separated text file http://www.cplusplus.com/forum/general/17771/ 
 - Parsing comma separated string https://www.geeksforgeeks.org/program-to-parse-a-comma-separated-string-in-c/#:~:text=Get%20the%20substring%20if%20the,and%20stored%20in%20the%20vector 
+- Operator overloading, used Zybook, https://en.cppreference.com/w/cpp/language/operators, https://martin-thoma.com/cpp-operator-overloading/
 - Professor German and TA’s Josh and Wesley
 
 Instructions to use program:
