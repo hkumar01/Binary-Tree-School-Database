@@ -2,6 +2,8 @@
 - Hari Kumar 002352411 hkumar@chapman.edu CPSC350-02 
 - Assignment 6 Building A Database With Binary Search Trees
 
+USING ALL THREE LATE DAY PASSES FOR THIS ASSIGNMENT
+
 Files Submitted:
 - main.cpp
 - bst.h
