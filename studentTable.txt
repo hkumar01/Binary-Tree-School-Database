@@ -1,0 +1,10 @@
+206, Hari Kumar, Junior, Data Science, 4, 425
+213, Billie Jean, Senior, Business, 3.2, 425
+750, Bob Jackson, Freshman, Art History, 2.7, 618
+720, Ashley Smith, Freshman, Art, 2.7, 618
+298, Erik Linstead, Senior, english, 5, 553
+836, Brad Smith, Sophomore, Chemistry, 3.6, 793
+802, Dan Rose, Senior, Biology, 3.9, 258
+772, Sophie Clyde, Junior, Data, 3.4, 999
+808, Chad Smith, Freshman, Physics, 1.2, 905
+888, Eighty Eight, Junior, Math, 2.3, 553

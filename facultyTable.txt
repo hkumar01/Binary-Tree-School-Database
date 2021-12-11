@@ -1,0 +1,10 @@
+425, Robert Gomez, Professor, Business
+258, Voss Water, Assistant Professor, Biology
+182, Bill Gates, Assistant Professor, Art
+229, Skyline High, Professor, History
+228, East Side, Associate Dean, English
+618, Kaan Ataman, Professor, Management Science
+553, Michael Jordan, Dean, Business
+999, Juice Wrld, Dean, Big Business
+905, Kevin Durant, Professor, Lifestyle
+793, Lebron James, Professor, Basketball
