@@ -2,7 +2,7 @@
 - Hari Kumar 002352411 hkumar@chapman.edu CPSC350-02 
 - Assignment 6 Building A Database With Binary Search Trees
 
-USING ALL THREE LATE DAY PASSES FOR THIS ASSIGNMENT
+NOTICE: THIS PROJECT IS STILL UNDER CONSTRUCTION
 
 Files Submitted:
 - main.cpp
@@ -19,7 +19,7 @@ Files Submitted:
 - student.h
 
 Compile/Runtime Errors
-- Operation 11 sometimes does not work during runtime 
+- Operation 11 and Operation 13 have not been implemented yet 
 
 References 
 - Referenced former orientation leader Michelle Kutsanov code for structure and organization, implementation was done on my own, also used her BST treeToFile function to save masterStudent and masterFaculty to file
