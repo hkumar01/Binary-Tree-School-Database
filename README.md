@@ -22,6 +22,7 @@ Compile/Runtime Errors
 - Operation 11 and Operation 13 have not been implemented yet 
 
 References 
+- Referenced former orientation leader Michelle Kutsanov code and used treeToFile functions to save BST's for student and faculty to file
 - Reading comma separated text file http://www.cplusplus.com/forum/general/17771/ 
 - Parsing comma separated string https://www.geeksforgeeks.org/program-to-parse-a-comma-separated-string-in-c/#:~:text=Get%20the%20substring%20if%20the,and%20stored%20in%20the%20vector 
 - Operator overloading, used Zybook, https://en.cppreference.com/w/cpp/language/operators, https://martin-thoma.com/cpp-operator-overloading/
