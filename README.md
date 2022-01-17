@@ -17,7 +17,7 @@ Files Submitted:
 - student.h
 
 Compile/Runtime Errors
-- Operation 11 and Operation 13 have not been implemented yet 
+- Operation 13 has not been implemented
 
 References 
 - Referenced former orientation leader Michelle Kutsanov code and used treeToFile functions to save BSTs for student and faculty to file
