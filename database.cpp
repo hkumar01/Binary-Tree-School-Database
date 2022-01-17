@@ -127,7 +127,7 @@ void Database::createStudentFromFile(string line)
 void Database::executeSelection()
 {
   string selection = "1";
-  while (selection != "14")
+  while (selection != "13")
   {
     cout << endl;
     cout << "START MENU" << endl;
@@ -144,8 +144,7 @@ void Database::executeSelection()
     cout << "10. Delete a faculty member given the id." << endl;
     cout << "11. Change a student’s advisor given the student id and the new faculty id." << endl;
     cout << "12. Remove an advisee from a faculty member given the ids" << endl;
-    cout << "13. Rollback" << endl;
-    cout << "14. Exit" << endl;
+    cout << "13. Exit" << endl;
 
     cin >> selection;
 
@@ -246,10 +245,6 @@ void Database::executeSelection()
       removeAdvisee(stuSearchID, facSearchID);
     }
     else if (selection == "13")
-    {
-      //rollback
-    }
-    else if (selection == "14")
     {
       saveFile();
       break;
