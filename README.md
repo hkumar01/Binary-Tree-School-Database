@@ -2,8 +2,6 @@
 - Hari Kumar 002352411 hkumar@chapman.edu CPSC350-02 
 - Assignment 6 Building A Database With Binary Search Trees
 
-NOTICE: THIS PROJECT IS STILL UNDER CONSTRUCTION
-
 Files Submitted:
 - main.cpp
 - bst.h
